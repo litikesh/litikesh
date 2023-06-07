@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/litikesh12" target="blank"><img src="https://img.shields.io/twitter/follow/litikesh12?logo=twitter&style=for-the-badge" alt="litikesh12" /></a> </p>
 
-- 🌱 I’m currently learning **Backend and React Native**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **litikesh12@gmail.com**
 
