@@ -1,31 +1,31 @@
 [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://rishavchanda.io)
 
 # 👋 About Me
-<img align="right" alt="coding" width="300"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="coding" width="320"  src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 Hi there! I'm **Litikesh Vilvanathan**, a passionate and creative **Web Developer** based in **Bengaluru, India**.  
 
 - 🌟 I specialize in designing and building **scalable**, **user-centric solutions** that combine **creativity** with technical excellence.  
 - 💻 My expertise includes creating **responsive web applications** and optimizing performance using modern technologies like **React**, **Angular**, and **Tailwind CSS**.  
-- 🎯 With a knack for problem-solving, I enjoy tackling challenges, especially in **debugging** and **optimizing animations** in React.  
+- 🎯 With a knack for problem-solving, I enjoy tackling challenges, especially in **debugging** and **optimizing animations** in React.
+- 📫 How to reach me **litikesh12@gmail.com** 
 
 # 🌐 Socials:
 
 <div align="left">
-<a href="https://portfolio-litikeshs-projects.vercel.app/" target="_blank">
+<a href="https://portfolio-litikeshs-projects.vercel.app/" target="blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  <a href="https://www.linkedin.com/in/litikesh-v/" target="_blank">
+  <a href="https://www.linkedin.com/in/litikesh-v/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  
   </a>
-  <a href="https://instagram.com/litikesh.v" target="_blank">
+  <a href="https://instagram.com/litikesh.v" target="blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.leetcode.com/litikesh12" target="_blank">
+  <a href="https://www.leetcode.com/litikesh12" target="blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="mailto:litikesh12@gmail.com" target="_blank">
+  <a href="mailto:litikesh12@gmail.com" target="blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
