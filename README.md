@@ -39,5 +39,9 @@ Hi there! I'm **Litikesh Vilvanathan**, a passionate and creative **Web Develope
   <img  src="https://github-readme-stats.vercel.app/api?username=litikesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=litikesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <br />
+     <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=litikesh&theme=radical" alt="streak stats"/>
+    <br/>
+    <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </div>
+  
