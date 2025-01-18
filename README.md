@@ -42,6 +42,6 @@ Hi there! I'm **Litikesh Vilvanathan**, a passionate and creative **Web Develope
      <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=litikesh&theme=radical" alt="streak stats"/>
     <br/>
-    <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/litikesh/litikesh/output/github-snake.svg" />
 </div>
   
