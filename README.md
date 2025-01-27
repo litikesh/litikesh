@@ -40,7 +40,7 @@ Hi there! I'm **Litikesh Vilvanathan**, a passionate and creative **Web Develope
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=litikesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
   <br />
   <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=litikesh&theme=radical" alt="streak stats"/>
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=litikesh&theme=radical" alt="streak stats"/> -->
     <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/litikesh/litikesh/output/github-snake.svg" />
 </div>
   
